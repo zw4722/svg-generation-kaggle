@@ -21,11 +21,11 @@ Random Seed: 42
 
 The notebook will:
 
-preprocess the dataset
-fine-tune the LoRA adapter
-save model weights
-generate SVG predictions for the test set
-export the final submission file
+- preprocess the dataset
+- fine-tune the LoRA adapter
+- save model weights
+- generate SVG predictions for the test set
+- export the final submission file
 
 Final output: 
 submission_final3.csv
