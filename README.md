@@ -16,14 +16,12 @@ Random Seed: 42
 ### Steps to reproduce
 
 1. Clone this repository or open the notebook in Google Colab.
-2. Install the required packages from `requirements.txt`.
-3. Mount Google Drive.
-4. Place the competition files in the correct directory:
-   - `train.csv`
-   - `test.csv
-5. Install required dependencies:
+2. Install required dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+---
 
 The notebook will:
 
