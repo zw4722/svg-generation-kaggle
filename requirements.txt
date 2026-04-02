@@ -1,1 +1,14 @@
-
+huggingface_hub==0.35.3
+transformers==4.56.2
+tokenizers==0.22.2
+hf_transfer
+unsloth==2026.3.17
+unsloth_zoo==2026.3.6
+torch
+pandas
+numpy
+datasets
+accelerate
+peft
+trl
+tqdm
