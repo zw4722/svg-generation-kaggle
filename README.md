@@ -19,6 +19,7 @@ Random Seed: 42
 2. Install required dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 
 ---
