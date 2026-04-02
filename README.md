@@ -20,7 +20,10 @@ Random Seed: 42
 3. Mount Google Drive.
 4. Place the competition files in the correct directory:
    - `train.csv`
-   - `test.csv`
+   - `test.csv
+5. Install required dependencies:
+```bash
+pip install -r requirements.txt
 
 The notebook will:
 
