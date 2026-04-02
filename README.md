@@ -4,6 +4,7 @@ DL Spring 2026 Kaggle SVG Generation project using LoRA and Qwen2.5 code    Zeku
 ## Reproducibility
 
 All experiments were conducted in Google Colab with an A100 GPU.
+Random Seed: 42
 
 ### Steps to reproduce
 
@@ -17,3 +18,14 @@ All experiments were conducted in Google Colab with an A100 GPU.
 5. Update the data path in the notebook if needed:
    ```python
    base = "/content/drive/MyDrive/svg_competition"
+
+The notebook will:
+
+preprocess the dataset
+fine-tune the LoRA adapter
+save model weights
+generate SVG predictions for the test set
+export the final submission file
+
+Final output: 
+submission_final3.csv
